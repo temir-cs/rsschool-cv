@@ -1,7 +1,7 @@
 # Curriculum Vitae - Temirlan Akhanov
 
 ### Contact info
-- **Email**: temirlan.akhanov@yandex.ru
+- **Email**: [temirlan.akhanov@yandex.ru](mailto:temirlan.akhanov@yandex.ru)
 - **Mobile/WhatsApp/Telegram**: +7(747)6668569
 - **LinkedIn**: [link to profile](https://www.linkedin.com/in/temirlan-akhanov-2b2431119/) 
 - **Slack ID**: UTQCSPSQ2
