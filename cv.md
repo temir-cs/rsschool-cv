@@ -8,9 +8,7 @@
 - **Discord ID**: temir-cs#9884
 
 ### Summary
-My current ultimate goal is to establish myself as a software engineer and gain valuable knowledge and experience in a professional environment.
-
-After graduating from university with a BSc in Computer Science, I had 4 years of experience in running my own business. However, the desire to follow my original specialization was always on my mind and has been getting stronger over time.
+My current ultimate goal is to establish myself as a software engineer and gain valuable knowledge and experience in a professional environment. After graduating from university with a BSc in Computer Science, I had 4 years of experience in running my own business. However, the desire to follow my original specialization was always on my mind and has been getting stronger over time.
 
 And now, after studying about 6 months at Hexlet and making some progress, I am currently aimed on landing my first job as a Junior Software Developer. I aim to constantly deepen my knowldege of computer science, sharpen my programming skills and hope to get into friendly and professional team with interesting projects.
 
@@ -28,9 +26,9 @@ And now, after studying about 6 months at Hexlet and making some progress, I am 
 1. **KT Cloud Lab** - (Feb 2016 - Jun 2016) - Technical Specialist in a Technical Support Department.
 
 ### Education
-- **[Hexlet.io](https://ru.hexlet.io/)** _(March 2020 - Present)_ - currently 70% progress in Frontend JS Developer Path and 70% progress in Backend JS (Node.JS) Developer Path. **[Link to my profile](hexlet.io/u/temir-cs)**
-- **The University of Nottingham** _(2011 - 2015)_ - BSc (with Honours) in Computer Science and Management Studies, 2:1 Second Class, Upper Division.
-- **Coursera** : [Introduction to Calculus](https://www.coursera.org/learn/introduction-to-calculus), [Mathematical Thinking in Computer Science](https://www.coursera.org/learn/what-is-a-proof/home/welcome)
+- **[Hexlet.io](https://ru.hexlet.io/)** _(March 2020 - Present)_ - currently 70% progress in Frontend JS Developer Path and 70% progress in Backend JS (Node.JS) Developer Path. **[Link to Hexlet profile](hexlet.io/u/temir-cs)**
+- **The University of Nottingham** _(July 2011 - September 2015)_ - BSc (with Honours) in Computer Science and Management Studies, 2:1 Second Class, Upper Division.
+- **Coursera** : [Introduction to Calculus](https://www.coursera.org/learn/introduction-to-calculus) (Completed), [Mathematical Thinking in Computer Science](https://www.coursera.org/learn/what-is-a-proof/home/welcome) (In progress)
 
 ### English
 - **Level**: C1 (Advanced)
