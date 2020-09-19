@@ -26,7 +26,7 @@ And now, after studying about 6 months at Hexlet and making some progress, I am 
 1. **KT Cloud Lab** - _(Feb 2016 - Jun 2016)_ - Technical Specialist in a Technical Support Department.
 
 ### Education
-- **[Hexlet.io](https://ru.hexlet.io/)** _(March 2020 - Present)_ - currently 70% progress in Frontend JS Developer Path and 70% progress in Backend JS (Node.JS) Developer Path. **[Link to Hexlet profile](hexlet.io/u/temir-cs)**
+- **[Hexlet.io](https://ru.hexlet.io/)** _(March 2020 - Present)_ - currently 70% progress in Frontend JS Developer Path and 70% progress in Backend JS (Node.JS) Developer Path. **[Link to Hexlet profile](https://ru.hexlet.io/u/temir-cs)**
 - **The University of Nottingham** _(July 2011 - September 2015)_ - BSc (with Honours) in Computer Science and Management Studies, 2:1 Second Class, Upper Division.
 - **Coursera** : [Introduction to Calculus](https://www.coursera.org/learn/introduction-to-calculus) (Completed), [Mathematical Thinking in Computer Science](https://www.coursera.org/learn/what-is-a-proof/home/welcome) (In progress)
 
