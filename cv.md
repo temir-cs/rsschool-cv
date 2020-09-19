@@ -22,8 +22,8 @@ And now, after studying about 6 months at Hexlet and making some progress, I am 
 1. [Mind Games CLI Application](https://github.com/temir-cs/frontend-project-lvl1) - a bundle of simple Math games that a user play to check his brain calculating power :)
 
 ### Experience
-1. **[ProGadget.kz](https://progadget.kz) Hi-Tech Toys & Gifts Chain Store** - (Jun 2016 - Present) Co-founder & Webmaster. Main responsibilities: website development (works on OpenCart CMS) and maintenance, warehouse software implementation, business development.
-1. **KT Cloud Lab** - (Feb 2016 - Jun 2016) - Technical Specialist in a Technical Support Department.
+1. **[ProGadget.kz](https://progadget.kz) Hi-Tech Toys & Gifts Chain Store** - _(Jun 2016 - Present)_ - Co-founder & Webmaster. Main responsibilities: website development (works on OpenCart CMS) and maintenance, warehouse software implementation, business development.
+1. **KT Cloud Lab** - _(Feb 2016 - Jun 2016)_ - Technical Specialist in a Technical Support Department.
 
 ### Education
 - **[Hexlet.io](https://ru.hexlet.io/)** _(March 2020 - Present)_ - currently 70% progress in Frontend JS Developer Path and 70% progress in Backend JS (Node.JS) Developer Path. **[Link to Hexlet profile](hexlet.io/u/temir-cs)**
