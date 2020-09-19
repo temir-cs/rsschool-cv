@@ -1,6 +1,6 @@
-## Curriculum Vitae - Temirlan Akhanov
+# Curriculum Vitae - Temirlan Akhanov
 
-#### Contact info
+### Contact info
 - **Email**: temirlan.akhanov@yandex.ru
 - **Mobile/WhatsApp/Telegram**: +7(747)6668569
 - **Slack ID**: UTQCSPSQ2
@@ -18,8 +18,10 @@ My current ultimate goal is to establish myself as a software engineer and gain 
 - **Version control systems**: Git
 - **Tools**: Visual Studio Code, Adobe Photoshop (advanced), Adobe After Effects, Adobe Premiere
 
-### Code examples
-1. [Mind Games CLI Application]()
+### Personal Projects (Code examples)
+1. [Difference Calculator CLI Application](https://github.com/temir-cs/frontend-project-lvl2) - an application that calculates difference between two files and displays them in different selectable formats. Supports 3 file types (JSON, YAML, INI) and 3 output formats (visual stylish, plain text and JSON). Build on pure JS on a Node.JS platform.
+1. [Mind Games CLI Application](https://github.com/temir-cs/frontend-project-lvl1) - a bundle of simple Math games that a user play to check his brain calculating power :). Build on pure JS on a Node.JS platform. 
+
 
 
 
