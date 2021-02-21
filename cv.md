@@ -22,7 +22,7 @@ And now, after successfully completing Javacript course at RS School and making 
 - **IELTS Score**: 8.0
 
 ### Personal Projects (Code examples)
-1. [Pixel Tale Game](https://github.com/temir-cs/rs-clone) - a 2D pixel art platformer game. The final team project made for RS Clone Wars task during RS School Javascript 2020Q3 Course. Written in TypeScript and on Phaser 3 engine. Selected as **2nd best Final School Project** of JS2020Q3 batch **[Link to proof](https://yadi.sk/i/9zac7ffitNHtMg)**
+1. [Pixel Tale Game](https://github.com/temir-cs/rs-clone) - a 2D pixel art platformer game. The final team project made for RS Clone Wars task during RS School Javascript 2020Q3 Course. Written in TypeScript and on Phaser 3 engine. Selected as **2nd best Final School Project** of JS2020Q3 batch. **[Proof](https://yadi.sk/i/9zac7ffitNHtMg)**
 1. [COVID-19 Dashboard](https://github.com/temir-cs/covid-dashboard) - COVID-19 Real-time World Map and Statistics tracking application.
 1. [Difference Calculator CLI Application](https://github.com/temir-cs/difference-generator) - an application that calculates difference between two files and displays them in different selectable formats. Supports 3 file types (JSON, YAML, INI) and 3 output formats (visual stylish, plain text and JSON)
 1. [Mind Games CLI Application](https://github.com/temir-cs/brain-games) - a bundle of simple Math games that a user play to check his brain calculating power :)
